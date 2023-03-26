@@ -1,0 +1,27 @@
+.App {
+  text-align: left;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: right;
+  height: 50px;
+  background-color: #eee;
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: right;
+  margin-right: 10px;
+}
+
+nav button {
+  margin: 0 10px;
+  padding: 10px;
+  border: none;
+  background-color: #fff;
+  cursor: pointer;
+}
+
