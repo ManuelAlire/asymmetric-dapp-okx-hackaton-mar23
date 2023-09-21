@@ -1,1 +1,1 @@
-# asymmetric-dapp-okx-hackaton-mar23
+# asymmetric-dapp-mindsdb-hackathon-23
